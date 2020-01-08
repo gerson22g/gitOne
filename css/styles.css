@@ -9,5 +9,18 @@
     color: white;
     font-family: arial;
     margin: 100px 30% 0;
-    padding: 50px;
+}
+
+.container h2, p {
+	padding: 0px 10px;
+}
+
+.header {
+	color: #FFC107;
+    background: #1e625c;
+}
+
+.header h1 {
+	padding: 10px;
+    text-align: center;
 }
