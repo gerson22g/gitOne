@@ -3,3 +3,11 @@
 	padding:0;
 	box-sizing: border-box;
 }
+
+.container {
+	background: #009688;
+    color: white;
+    font-family: cursive;
+    margin: 100px 30% 0;
+    padding: 50px;
+}
