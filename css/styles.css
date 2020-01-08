@@ -9,5 +9,14 @@
     color: white;
     font-family: cursive;
     margin: 100px 30% 0;
-    padding: 50px;
+    }
+
+.header {
+	color: #FFC107;
+    background: #1e625c;
+}
+
+.header h1 {
+	padding: 10px;
+    text-align: center;
 }
