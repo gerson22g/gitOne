@@ -9,7 +9,11 @@
     color: white;
     font-family: cursive;
     margin: 100px 30% 0;
-    }
+}
+
+.container h2, p {
+	padding: 0px 10px;
+}
 
 .header {
 	color: #FFC107;
